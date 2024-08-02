@@ -7,3 +7,5 @@ pandas
 requests
 plotly
 python-dotenv
+
+pytest
