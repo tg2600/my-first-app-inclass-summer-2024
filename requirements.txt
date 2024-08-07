@@ -9,4 +9,7 @@ plotly
 python-dotenv
 
 flask
+
+gunicorn
+
 pytest
